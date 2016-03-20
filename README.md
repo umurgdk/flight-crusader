@@ -2,6 +2,8 @@
 
 POC top down flight game!
 
+![Flight Crusader](https://raw.githubusercontent.com/umurgdk/flight-crusader/master/screenshots/flight_crusader.png)
+
 ## Installation
 
 ```
