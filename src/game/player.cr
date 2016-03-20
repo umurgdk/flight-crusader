@@ -35,15 +35,6 @@ class Player < GameObject
     @plane.stop_shooting
   end
 
-  def on_hit(target, bullet)
-    if target.is_a?(Plane)
-      unless target.alive?
-        @score += 1
-        scene.remove_object(target)
-      end
-    end
-  end
-
   def on_event(event : EnemyKilledEvent)
     @score += 1
   end
