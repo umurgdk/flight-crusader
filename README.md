@@ -1,26 +1,17 @@
-# game
+# Flight Crusader
 
-TODO: Write a description here
+POC top down flight game!
 
 ## Installation
 
-
-TODO: Write installation instructions here
-
-
-## Usage
-
-
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
+```
+$ brew install csfml
+$ crystal deps
+$ crystal src/flight_crusader
+```
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/game/fork )
+1. Fork it ( https://github.com/umurgdk/game/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -28,4 +19,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Umur Gedik - creator, maintainer
+- [umurgdk](https://github.com/umurgdk) Umur Gedik - creator, maintainer
