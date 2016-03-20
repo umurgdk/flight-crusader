@@ -1,0 +1,11 @@
+name: flight_crusador
+version: 0.1.0
+
+authors:
+  - Umur Gedik <umurgdk@gmail.com>
+
+dependencies:
+  crsfml:
+    github: BlaXpirit/crsfml
+
+license: MIT
