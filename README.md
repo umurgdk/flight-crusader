@@ -8,8 +8,11 @@ POC top down flight game!
 
 ```
 $ brew install csfml
+$ git clone https://github.com/umurgdk/flight-crusader
+$ cd flight-crusader
 $ crystal deps
-$ crystal src/flight_crusader
+$ crystal build --release src/flight_crusader
+$ ./flight_crusader
 ```
 ## Contributing
 
