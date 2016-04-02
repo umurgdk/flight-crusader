@@ -2,5 +2,5 @@ version: 1.0
 shards:
   crsfml:
     github: BlaXpirit/crsfml
-    version: 2.3.5
+    commit: 6714caac70f80a5a4bc140386f71125b31d06d50
 
