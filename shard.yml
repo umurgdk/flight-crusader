@@ -7,5 +7,6 @@ authors:
 dependencies:
   crsfml:
     github: BlaXpirit/crsfml
+    branch: master
 
 license: MIT
