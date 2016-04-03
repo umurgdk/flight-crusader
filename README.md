@@ -11,7 +11,7 @@ $ brew install csfml
 $ git clone https://github.com/umurgdk/flight-crusader
 $ cd flight-crusader
 $ crystal deps
-$ crystal build --release src/flight_crusader
+$ crystal build --release src/flight_crusader.cr
 $ ./flight_crusader
 ```
 ## Contributing
